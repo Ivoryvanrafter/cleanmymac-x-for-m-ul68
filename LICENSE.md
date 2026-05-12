@@ -1,4 +1,4 @@
-
+smart Addon for CleanMyMac X for macOS - app-uninstaller and duplicate-finder is the best CleanMyMac X for macOS addon, featuring app-uninstaller and duplicate-finder. Safe,
 
 
 
